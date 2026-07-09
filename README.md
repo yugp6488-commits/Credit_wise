@@ -1,4 +1,4 @@
-# Credit Wise - Loan Approval Predictor
+<a href=https://credit-wise-1.onrender.com>Credit_wise-A loan approval</a>
 
 A modern fintech web application that predicts loan approval status using AI-powered analysis. Built with Next.js 16, React 19, and Tailwind CSS.
 
